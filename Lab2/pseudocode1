@@ -1,0 +1,8 @@
+intitialize
+create variables for the array and the size of the array
+ask user to enter size of the array
+check if the input was an appropriate value
+create the array of size "input".
+ask user to input the array values separated by a space
+traverse the array to check if the values are increasing or not
+print the array on one line 
